@@ -33,10 +33,10 @@ deepspeed main_grpo.py
 The files do not contain code for visualizing results, but you can generate visualizations by modifying the code to use wandb or matplotlib, or by saving logs and generating plots separately.    
 
 
-<img width="400" height="300" alt="GRPO_LOSS" src="https://github.com/user-attachments/assets/d3db0c1e-5fa8-41e1-bc4f-76915ee2690d" />
+<img width="500" height="500" alt="GRPO_LOSS" src="https://github.com/user-attachments/assets/d3db0c1e-5fa8-41e1-bc4f-76915ee2690d" />
 
 
-<img width="400" height="300" alt="GRPO_FORMAT" src="https://github.com/user-attachments/assets/606592cc-8ef5-4e22-8a82-a080aa012b7c" />
+<img width="500" height="500" alt="GRPO_FORMAT" src="https://github.com/user-attachments/assets/606592cc-8ef5-4e22-8a82-a080aa012b7c" />
 
 
 
